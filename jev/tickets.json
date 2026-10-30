@@ -1,0 +1,8 @@
+{
+ "T1": "My invoice was charged twice this month and nobody answers the phone.",
+ "T2": "The export button has been broken since the last release; every CSV comes out empty.",
+ "T3": "Can I get a quote for 50 seats on the annual plan with SSO?",
+ "T4": "Our production API keys stopped working ten minutes ago and checkout is down for every customer.",
+ "T5": "The VAT number on last month's invoice is wrong; accounting needs a corrected copy by Friday.",
+ "T6": "Where do I find the API documentation for webhooks?"
+}
